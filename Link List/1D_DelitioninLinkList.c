@@ -73,6 +73,7 @@ struct Node * deleteAtElement(struct Node * head, int value){
 }
 int main()
 {
+    cout<<"HII"<<endl;
     struct Node *head;
     struct Node *second;
     struct Node *third;
